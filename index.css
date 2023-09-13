@@ -1,0 +1,52 @@
+nav{
+    text-align: center;
+}
+img{
+    width: auto50%;
+    margin: 1px auto;
+    display: block;
+}
+figcaption{
+    text-align: center;
+}
+
+
+
+.section1{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    display: block;
+    float: right;
+    
+    
+  
+
+}
+.section2{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    display: block;
+    float: right;
+
+   
+    
+}
+.section3{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    display: block;
+    float: right;
+    
+
+}
+.section4{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    display:block; 
+    float: right;
+     
+}
